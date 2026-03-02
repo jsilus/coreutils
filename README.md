@@ -3,7 +3,7 @@ Custom C implementations of GNU coreutils for the goal of practice.
 
 ## Utility List
 - [X] arch
-- [ ] base64
+- [X] base64
 - [ ] basename
 - [ ] cat
 - [ ] chcon

@@ -1,10 +1,10 @@
 CC = gcc
-CFLAGS = -Wall
+CFLAGS = -Wall -std=c99
 
 SRC_DIR = src
 BUILD_DIR = build
 
-PROGRAMS = arch
+PROGRAMS = arch base64
 
 .PHONY: all clean $(PROGRAMS)
 
